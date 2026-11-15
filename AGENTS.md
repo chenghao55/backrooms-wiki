@@ -20,7 +20,7 @@ The website is hosted on GitHub Pages. AI agents maintain its content during dev
 ## 2. Project Structure
 
 ```text
-backrooms-archive/
+backrooms-wiki/
 ├── AGENTS.md
 ├── README.md
 ├── .agents/
