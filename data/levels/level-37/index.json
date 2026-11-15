@@ -1,0 +1,138 @@
+{
+  "id": "37",
+  "status": "complete",
+  "name": "Sublimity",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-37",
+  "sections": [
+    {
+      "title": "描述",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/Poolrooms-1.jpg",
+          "caption": "Level 37 的一處水池空間。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-37/Poolrooms-1.jpg",
+          "license": "作者：u/AnarkyMusic（https://www.instagram.com/anarky.3d/）；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-37"
+        },
+        {
+          "type": "text",
+          "content": "Level 37 是一片龐大的相連室內空間，房間與走廊浸在持續微微起伏的溫水中。各處大小與形狀差異很大，既有規整的水池和通道，也有開闊而形狀反常的區域。大多數表面覆以潔白、光亮且完全一致的陶瓷磚；除藍綠色的水之外，幾乎沒有其他色彩。測試顯示瓷磚近乎無法破壞，因此以鑽穿牆壁來開路，在現有技術下並不可行。"
+        },
+        {
+          "type": "text",
+          "content": "建築格局雖多變，卻沒有可辨認的用途：區域以缺乏邏輯的方式互通，尺度也遠超一般泳池所需。有些地方立柱密集，有些寬闊水面沒有可攀上的邊緣；光線從不規則的角度射入，使部分空間陷入黑暗，樓梯甚至直接通往深水坑。深處入口通常是下降階梯或水下孔洞；原文強烈反對在缺乏裝備時探索，因為照明與出口不足，容易溺斃。"
+        },
+        {
+          "type": "image",
+          "src": "images/Poolrooms-3.jpg",
+          "caption": "Level 37 的另一處空間。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-37/Poolrooms-3.jpg",
+          "license": "作者：u/AnarkyMusic（https://www.instagram.com/anarky.3d/）；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-37"
+        },
+        {
+          "type": "text",
+          "content": "水中測得少量瀉鹽（硫酸鎂），長時間浸泡可使肌肉放鬆、緩解疼痛；另有數種未辨識的化合物，來源和性質仍不明。研究者懷疑它們以異常方式加強了舒緩效果，但尚未證實。即使水面未受擾動，仍始終存在細微波紋；這可能是水本身的性質，也可能源於層級某處。有人猜測層級廣大到產生自己的潮汐，但這只是推測。"
+        },
+        {
+          "type": "text",
+          "content": "此處聲音的傳播異常：聲響可能突然消失，回音不如預期，說話聲也像被壓低。水聲有時安靜而令人平和，少數時候卻會變得突出，蓋過其他聲音。這些現象的成因仍在研究，尚無定論。"
+        },
+        {
+          "type": "image",
+          "src": "images/Poolrooms-2.jpg",
+          "caption": "走廊中的水波。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-37/Poolrooms-2.jpg",
+          "license": "作者：u/AnarkyMusic（https://www.instagram.com/anarky.3d/）；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-37"
+        }
+      ]
+    },
+    {
+      "title": "實體",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "目前認為 Level 37 完全沒有生命；尚無在此遭遇實體或其他流浪者的紀錄。不清楚這是層級具有隔離性，還是其範圍大到使相遇極不可能。原頁將生存難度列為 0，標示為安全、欠缺穩定保障且沒有實體。"
+        }
+      ]
+    },
+    {
+      "title": "基地、前哨站與社群",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "層級格局不利於永久定居，可能存在的隔離性、無法維持生命的條件及巨大的尺度，也使建立住處缺乏吸引力。異常的聲學環境更妨礙社群形成；目前沒有前哨站。"
+        }
+      ]
+    },
+    {
+      "title": "附加資訊：拾獲筆記〈My Musings〉",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "原頁附上一段一般被認為出自不知名作者日誌的文字，因在流浪者、尤其自由探索團體間流傳而收錄。作者在漫長的探索後抵達這片安靜水域，把它視為混亂旅程中首次得以喘息的地方：明亮房間、溫暖藍水與反光白磚帶來平和感。"
+        },
+        {
+          "type": "text",
+          "content": "筆記作者接著提出個人觀點：這類空間是心境與情緒的映照，熟悉卻又異樣，像在夢中行走；延展它們的是人的情緒，而非某個可見的建造者或操控實體。作者稱之為「Scapes」，認為人或許能在合適的心境下離開，但置身循環且不合理的走廊時很難做到。這些說法屬於筆記作者的思索，並非層級已證實的機制。"
+        },
+        {
+          "type": "text",
+          "content": "在作者眼中，這片「Poolrooms」既令人寧靜，也因無光的角落而令人不安。筆記最後讚嘆它的潔淨與似乎無盡的精巧布局，並以神的手筆形容這種奇異的完美；這仍是作者的感受與比喻。"
+        }
+      ]
+    },
+    {
+      "title": "出入口",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/Poolrooms-4.jpg",
+          "caption": "光線進入昏暗角落。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-37/Poolrooms-4.jpg",
+          "license": "作者：u/AnarkyMusic（https://www.instagram.com/anarky.3d/）；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-37"
+        },
+        {
+          "type": "text",
+          "content": "原文列出四種進入方式與三種離開方式；具體條件見下方結構化出入口資料。"
+        }
+      ]
+    }
+  ],
+  "entrances": [
+    {
+      "target": "58",
+      "description": "浸入 Level 58 的水中，可能在 Level 37 再度浮出。"
+    },
+    {
+      "target": "119",
+      "description": "浸入 Level 119 的水中，可能在 Level 37 再度浮出。"
+    },
+    {
+      "target": "233",
+      "description": "Level 233 的瓷磚區域偶爾會通向此處。"
+    },
+    {
+      "target": "130",
+      "description": "Level 130 的水下區域在罕見情況下可作為入口。"
+    },
+    {
+      "target": "25",
+      "description": "可經由 Level 25 的一座遊樂場進入。"
+    }
+  ],
+  "exits": [
+    {
+      "target": "130",
+      "description": "浸入 Level 37 的水中，可能在 Level 130 的水池再度浮出。"
+    },
+    {
+      "target": "43",
+      "description": "封閉且昏暗的隧道可能通往 Level 43。"
+    },
+    {
+      "target": "233",
+      "description": "走廊罕見地會通往 Level 233 的相似走廊。"
+    }
+  ]
+}

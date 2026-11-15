@@ -1,4 +1,29 @@
 {
   "schema_version": 1,
-  "levels": []
+  "levels": [
+    {
+      "id": "37",
+      "name": "Sublimity",
+      "status": "complete",
+      "path": "levels/level-37/index.json"
+    },
+    {
+      "id": "43",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-43/index.json"
+    },
+    {
+      "id": "130",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-130/index.json"
+    },
+    {
+      "id": "233",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-233/index.json"
+    }
+  ]
 }
