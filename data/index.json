@@ -2,10 +2,100 @@
   "schema_version": 1,
   "levels": [
     {
+      "id": "0",
+      "name": "Threshold",
+      "status": "complete",
+      "path": "levels/level-0/index.json"
+    },
+    {
+      "id": "1",
+      "name": "Habitable Zone",
+      "status": "complete",
+      "path": "levels/level-1/index.json"
+    },
+    {
+      "id": "2",
+      "name": "Abandoned Utility Halls",
+      "status": "complete",
+      "path": "levels/level-2/index.json"
+    },
+    {
+      "id": "3",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-3/index.json"
+    },
+    {
+      "id": "4",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-4/index.json"
+    },
+    {
+      "id": "11",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-11/index.json"
+    },
+    {
+      "id": "19",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-19/index.json"
+    },
+    {
+      "id": "21",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-21/index.json"
+    },
+    {
+      "id": "22",
+      "name": "Ruins Left Behind",
+      "status": "complete",
+      "path": "levels/level-22/index.json"
+    },
+    {
+      "id": "23",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-23/index.json"
+    },
+    {
+      "id": "24",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-24/index.json"
+    },
+    {
+      "id": "31",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-31/index.json"
+    },
+    {
+      "id": "34",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-34/index.json"
+    },
+    {
       "id": "37",
       "name": "Sublimity",
       "status": "complete",
       "path": "levels/level-37/index.json"
+    },
+    {
+      "id": "38",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-38/index.json"
+    },
+    {
+      "id": "40",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-40/index.json"
     },
     {
       "id": "43",
@@ -14,16 +104,178 @@
       "path": "levels/level-43/index.json"
     },
     {
+      "id": "64",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-64/index.json"
+    },
+    {
+      "id": "70",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-70/index.json"
+    },
+    {
+      "id": "101",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-101/index.json"
+    },
+    {
+      "id": "126",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-126/index.json"
+    },
+    {
+      "id": "127",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-127/index.json"
+    },
+    {
+      "id": "128",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-128/index.json"
+    },
+    {
       "id": "130",
       "name": null,
       "status": "placeholder",
       "path": "levels/level-130/index.json"
     },
     {
+      "id": "137",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-137/index.json"
+    },
+    {
+      "id": "141",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-141/index.json"
+    },
+    {
+      "id": "154",
+      "name": "The Laser Game",
+      "status": "complete",
+      "path": "levels/level-154/index.json"
+    },
+    {
+      "id": "158",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-158/index.json"
+    },
+    {
+      "id": "159",
+      "name": "Beastland",
+      "status": "complete",
+      "path": "levels/level-159/index.json"
+    },
+    {
+      "id": "175",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-175/index.json"
+    },
+    {
+      "id": "189",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-189/index.json"
+    },
+    {
+      "id": "201",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-201/index.json"
+    },
+    {
+      "id": "218",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-218/index.json"
+    },
+    {
       "id": "233",
       "name": null,
       "status": "placeholder",
       "path": "levels/level-233/index.json"
+    },
+    {
+      "id": "283",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-283/index.json"
+    },
+    {
+      "id": "305",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-305/index.json"
+    },
+    {
+      "id": "389",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-389/index.json"
+    },
+    {
+      "id": "606",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-606/index.json"
+    },
+    {
+      "id": "710",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-710/index.json"
+    },
+    {
+      "id": "800",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-800/index.json"
+    },
+    {
+      "id": "811",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-811/index.json"
+    },
+    {
+      "id": "817",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-817/index.json"
+    },
+    {
+      "id": "902",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-902/index.json"
+    },
+    {
+      "id": "916",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-916/index.json"
+    },
+    {
+      "id": "997",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-997/index.json"
+    },
+    {
+      "id": "998",
+      "name": null,
+      "status": "placeholder",
+      "path": "levels/level-998/index.json"
     }
   ]
 }

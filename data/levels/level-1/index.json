@@ -1,0 +1,325 @@
+{
+  "id": "1",
+  "status": "complete",
+  "name": "Habitable Zone",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-1",
+  "sections": [
+    {
+      "title": "序幕與概述",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "敘事者從 Level 0 的閃爍牆面穿越後，先來到貼滿便條的馬尼拉房間，再踏入像停車場與倉庫混合體的混凝土空間。他因脫水與足部水泡而虛弱，在瓦礫中撿到鐵撬，繼續尋找人類。"
+        },
+        {
+          "type": "text",
+          "content": "Level 1 別稱「宜居區」，原頁列為生存難度 1：相對安全且穩定，有異常資源，實體數量少。這裡比 Level 0 更複雜，有危險生物與現象，也有食水和人類聚落；原文提醒並非所有人都友善。"
+        }
+      ]
+    },
+    {
+      "title": "大廳、導航與區域",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/aquila.jpg",
+          "caption": "Aquila 區域的停車場式空間。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-1/artistlivesinme.jpg",
+          "license": "作者：SunCon Photos；CC BY 2.0（https://creativecommons.org/licenses/by/2.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-1"
+        },
+        {
+          "type": "text",
+          "content": "大廳寬闊，褪色牆壁與混凝土柱延伸數英里，像地下停車場與廢棄倉庫。此區有物資木箱及燈光閃爍現象。空間的非歐幾里得幾何會使視覺距離失準：遠方可能很快抵達，近處也可能始終無法接近。原頁建議直視並朝固定地標前進，若距離沒有縮短便另找地標；過度自信是新來者的主要死因。"
+        },
+        {
+          "type": "image",
+          "src": "images/gild.jpg",
+          "caption": "Gild 區域的倉儲式空間。",
+          "source_url": "https://backrooms-wiki.wikidot.com/local--files/level-1/Gild.jpg",
+          "license": "作者：Downtowngal；CC BY 4.0（https://creativecommons.org/licenses/by/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-1"
+        },
+        {
+          "type": "text",
+          "content": "六個區域分別是 Aquila、Gild、Gothic、Ouroboros、Garden 與 Fabled。Aquila 像停車場，管線漏水不可飲用，Level 0 新來者常抵達此處，M.E.G. 的 Base Alpha 巡邏隊會護送新人。Gild 更像倉庫，木箱多，B.N.T.G. 的 Trader's Keep 位於此處。Gothic 多拱門與圓柱，設有 Hippocrates-1 醫療據點。"
+        },
+        {
+          "type": "text",
+          "content": "Ouroboros 長期施工，穿工作服的陰影生物無視人類繼續作業，可能意外傷人。Garden 雖綠意盎然，停留約一小時便可能逐漸植物化。Level 222 策展人 Leo Castellos 在文中引述說，Fabled 曾是木質與朱紅色的人類聚落，後被變動走廊隔離，重新發現後又出現霓虹燈和彩色電纜；這是其對後室變遷的敘述。"
+        },
+        {
+          "type": "text",
+          "content": "M.E.G. Compass Point 隊員 Ale 的指南說明，聚落會在門邊、牆面或燈具附近留下鮮豔布條、團體標誌、食物或杏仁水和指路便條。取走補給後應將布條放地上，方便巡邏隊補充。敘事者依此找到杏仁水與邀請便條，恢復些許體力後推開雙門進入走廊。"
+        }
+      ]
+    },
+    {
+      "title": "走廊與暫時營地",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "大廳內有時掛出口標誌的推門，其實通往同層的走廊。走廊狹窄、昏暗而曲折，可能延伸數公里；幾何結構沒有大廳的異常性，但仍容易迷路，可用線球標記回程。各房間用途反常，包括舊電腦辦公室、磚牆小室、單床醫務室、橡膠房與擺放畫作的房間。走廊較少實體，適合休息，但幾乎沒有補給。"
+        },
+        {
+          "type": "text",
+          "content": "Nomad Troop「Ariane thread」建議挑接近臥室大小的房間，使用睡袋、軟地板或家具休息。偶見的食物應只取密封瓶罐；生火須注意通風。不要使用房門原有的鎖，因它可能消失並使人受困；可用家具堵門，閃爍時保持安靜。休息後循原路返回大廳繼續找團體。"
+        },
+        {
+          "type": "text",
+          "content": "敘事者在舊床墊上睡著，夢見 Level 0 的紅光與深陷地毯。醒來後燈突然熄滅，他躲回房內，聽見門外腳步、喘息與利爪刮門。照明恢復後，門上留下四道抓痕和透明黏稠液體，卻不見來者。"
+        }
+      ]
+    },
+    {
+      "title": "燈光閃爍",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/flickering.png",
+          "caption": "大廳發生燈光閃爍時的影像。",
+          "source_url": "https://praetor.wdfiles.com/local--files/level-1/flickering",
+          "license": "原圖作者：Fabian Schmidt；CC BY 2.0（https://creativecommons.org/licenses/by/2.0/）；Praetor3005 曾輕微編修；授權標示見 https://backrooms-wiki.wikidot.com/level-1"
+        },
+        {
+          "type": "text",
+          "content": "「閃爍」會在無法預測的時間使層級自然照明全部熄滅，持續時間也不定。黑暗使大廳的異常生物出來獵捕。原文建議尋找綠色出口燈下的走廊入口，沿牆緩慢摸向門口；在大廳不要開燈或奔跑，以免引來實體。走廊雖也變暗，實體極少進入，可在房間等候。"
+        }
+      ]
+    },
+    {
+      "title": "木箱與物資",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/crates.png",
+          "caption": "M.E.G. 集中分類的木箱。",
+          "source_url": "https://backrooms-sandbox-2.wdfiles.com/local--files/collab%3Alevel-1/caisse",
+          "license": "作者：Thelmadatter；CC BY 3.0（https://creativecommons.org/licenses/by/3.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-1"
+        },
+        {
+          "type": "text",
+          "content": "無標記木箱常在背後或閃爍後出現，也可能在無人注視時消失。內容幾乎不限，是聚落得以維生的關鍵；但也可能裝有化學品、爆裂物、玻璃碎片或極冷固體，開箱前須檢查，切勿急著伸手。敘事者曾被箱中物割傷，後找到背包及四瓶杏仁水。"
+        },
+        {
+          "type": "text",
+          "content": "B.N.T.G. 收集主管 Callum Andrews 主張先處理當下需求，再選擇可攜物資：密封飲食、保暖衣鞋、繃帶與消毒用品、開箱工具、生火物品、走廊用燈具、記錄用品、手錶、充電器和睡袋。過度負重會拖慢逃生；文中另提 Frvyo jades、噴水槍及 Warpberries 等特殊物品。"
+        }
+      ]
+    },
+    {
+      "title": "實體",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "實體在閃爍時較常獵食，亮燈時仍可能出現。應留意天花板、地面與身後；遇未知生物時保持冷靜，安靜退往走廊，無出口則躲在柱子或木箱後。不要貿然奔跑、開槍、近身搏鬥或接近身分不明的單獨人影。"
+        },
+        {
+          "type": "text",
+          "content": "常見名單包括 Arms、Clumps、Crawlers 真菌、Dullers、Growlers、Hounds、Nguithr'xurh、Skin-Stealers、Smilers、Wrangler 與 Wretches。它們分別涉及裂縫伏擊、快速追捕、感染、穿牆、光源吸引或偽裝成人等不同風險；原文對各種實體另列因應方法。"
+        },
+        {
+          "type": "text",
+          "content": "敘事者聽見求救聲，遇到一名似乎受傷的女子，靠近後才發現她披著他人皮膚，旁邊躺著失去皮膚的屍體。他的肩膀遭利爪重傷，雖以鐵撬反擊仍幾乎昏迷；一名持砍刀的人及時救了他。敘事者後來在 Base Alpha 縫合傷口並治療感染，復原歷時兩個月。"
+        }
+      ]
+    },
+    {
+      "title": "基地、前哨站與社群",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Level 1 人口較多，既有十餘人的臨時營地，也有跨層級的大型團體；分散的聚落與稀缺資源意味著人類也可能構成危險。M.E.G. 的 Base Alpha 位於 Aquila，提供食宿、訓練與探索工作。B.N.T.G. 在 Gild 的 Trader's Keep 以交換物資提供保護，並設有 Trader's Vault。"
+        },
+        {
+          "type": "text",
+          "content": "Ariane Circle 的 Hippocrates-1 位於 Gothic，研究實體並免費為傷病者提供據點內醫療。流動的 Camp Amber 曾幫助新來者，2013 年遷往 The Hub。Eyes of Argos 的 Cornucopia 巡邏者會懲罰其認定的罪人，原文提醒避免接觸。Speednoclippers 暫設登記點並教授受控穿越；Tom 與 Aiko Sato 經營的 Tom's Diner 則是大型餐館與社交場所。"
+        },
+        {
+          "type": "text",
+          "content": "敘事者在 Base Alpha 康復後常到 Tom 的餐館；Tom 鼓勵他思考自己能做的事。文末由 Stephanie Ashford 署名：她如今加入 M.E.G.，在 Level 0 與 Level 1 放置補給和便條，幫助後來者，並勸讀者不要放棄希望。"
+        }
+      ]
+    },
+    {
+      "title": "入口、出口與 C.L.I.P.P. 協定",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Level 0 是新人熟悉的入口；原文另列從其他層級的門、環境逐漸轉變、穿牆或觸碰特定物品進入的方法。這些連接可能隨時間出現或消失，名單並不完整。最常見的出口通往 Level 2：沿管道與儀表逐漸增多的方向前進。其餘出口的條件列於下方導覽。"
+        },
+        {
+          "type": "text",
+          "content": "The Hub、bHZsMzUy、Level 998.2 與 Level 1.1／1.2／1.5 等非一般整數編號目的地，無法用目前導覽 ID 表示，僅在此保留而未建立數字佔位頁。原文對 Level 24 的入口只稱傳聞，Level √2 的通路則尚未證實。"
+        },
+        {
+          "type": "text",
+          "content": "Ariane Circle 的 Hermes 隊提出 C.L.I.P.P. 協定：先檢查環境與威脅（Check），尋找出口（Locate），查閱資料庫辨認層級（Inspect），準備裝備（Prepare），最後劃定臨時安全範圍（Perimeter）。"
+        }
+      ]
+    }
+  ],
+  "entrances": [
+    {
+      "target": "0",
+      "description": "從 Level 0 的閃爍牆面穿越。"
+    },
+    {
+      "target": "11",
+      "description": "由某些建築入口進入。"
+    },
+    {
+      "target": "12",
+      "description": "依特定步驟通過一扇門。"
+    },
+    {
+      "target": "40",
+      "description": "從鏽蝕金屬門進入。"
+    },
+    {
+      "target": "46",
+      "description": "從砂岩門進入。"
+    },
+    {
+      "target": "54",
+      "description": "從某些門進入。"
+    },
+    {
+      "target": "162",
+      "description": "從辦公空間的門或移動平台的次要牆面進入。"
+    },
+    {
+      "target": "215",
+      "description": "由普通建築物的門進入。"
+    },
+    {
+      "target": "330",
+      "description": "從連接建築物的某些門進入。"
+    },
+    {
+      "target": "409",
+      "description": "由紙板門進入。"
+    },
+    {
+      "target": "726",
+      "description": "從房間任一扇門進入。"
+    },
+    {
+      "target": "2",
+      "description": "返回逐漸普通的走廊。"
+    },
+    {
+      "target": "38",
+      "description": "沿逐漸減少故障的混凝土走道前進。"
+    },
+    {
+      "target": "141",
+      "description": "從樓梯或電梯進入。"
+    },
+    {
+      "target": "84",
+      "description": "在 VP 3 接觸或穿越多數物件或牆面。"
+    },
+    {
+      "target": "128",
+      "description": "穿越混凝土牆。"
+    },
+    {
+      "target": "283",
+      "description": "在 The Lounges 穿越地板。"
+    },
+    {
+      "target": "294",
+      "description": "在 Main Hall 受控穿越牆面。"
+    },
+    {
+      "target": "58",
+      "description": "打開標紅色數字一的補給箱。"
+    },
+    {
+      "target": "304",
+      "description": "吃下火腿可頌。"
+    },
+    {
+      "target": "305",
+      "description": "穿入樹木。"
+    },
+    {
+      "target": "322",
+      "description": "觸摸綠色形體。"
+    },
+    {
+      "target": "365",
+      "description": "觸摸鏡子。"
+    },
+    {
+      "target": "852",
+      "description": "找到賣場並取得兩瓶杏仁水。"
+    }
+  ],
+  "exits": [
+    {
+      "target": "2",
+      "description": "沿管道與儀表逐漸出現的方向前進。"
+    },
+    {
+      "target": "22",
+      "description": "通過玻璃門。"
+    },
+    {
+      "target": "154",
+      "description": "通過日光燈走廊盡頭帶獨特符號的門。"
+    },
+    {
+      "target": "159",
+      "description": "通過覆冰的金屬門。"
+    },
+    {
+      "target": "218",
+      "description": "通過地堡門。"
+    },
+    {
+      "target": "389",
+      "description": "通過位置反常的木門，或穿過小丑畫作。"
+    },
+    {
+      "target": "998",
+      "description": "通過類似電梯入口的雙扇金屬門，再走上樓梯。"
+    },
+    {
+      "target": "19",
+      "description": "爬進天花板的孔洞。"
+    },
+    {
+      "target": "38",
+      "description": "沿逐漸出現更多故障現象的走廊前進。"
+    },
+    {
+      "target": "128",
+      "description": "經顯示戶外景象的牆上缺口，或穿越某些牆面。"
+    },
+    {
+      "target": "800",
+      "description": "進入敞開的通風管。"
+    },
+    {
+      "target": "24",
+      "description": "B.N.T.G. 保密的入口；原文僅傳聞可能是月球畫作。"
+    },
+    {
+      "target": "201",
+      "description": "使用標有「Mach+」的 VHS 錄影帶，穿入電視。"
+    },
+    {
+      "target": "305",
+      "description": "穿入枯樹。"
+    },
+    {
+      "target": "710",
+      "description": "觸碰 Pilgrim's Path 的地標並持續沿途穿越，最後可抵達。"
+    },
+    {
+      "target": "817",
+      "description": "穿越裝有廢金屬的木箱。"
+    }
+  ]
+}

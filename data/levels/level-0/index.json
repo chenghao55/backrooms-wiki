@@ -1,0 +1,65 @@
+{
+  "id": "0",
+  "status": "complete",
+  "name": "Threshold",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-0",
+  "sections": [
+    {
+      "title": "描述",
+      "blocks": [
+        {"type": "image", "src": "images/OGLevel0.jpg", "caption": "最早廣為流傳的 Level 0 與後室照片。", "source_url": "https://backrooms-wiki.wikidot.com/local--files/level-0/OGLevel0.jpg", "license": "作者：Bob Mazza；CC0 1.0（https://creativecommons.org/publicdomain/zero/1.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-0"},
+        {"type": "text", "content": "Level 0 又稱「黃色地獄」，是許多流浪者進入後室時抵達的第一個層級。它像辦公室或商店後方的房間與走廊，遍布病態的黃色壁紙、受潮發霉的地毯及嗡嗡作響的日光燈。房間、走廊與樓梯不規則地延伸，格局與尺度難以掌握；單調而漫長的跋涉會加劇孤立、偏執與精神疲憊。原文將生存難度列為 1，標示安全、穩定，但實體是否存在仍未確認。"},
+        {"type": "text", "content": "這裡缺乏可靠補給。毫無準備地進入者可能在找到出口前因脫水或飢餓而死亡。"}
+      ]
+    },
+    {
+      "title": "異常：建築結構",
+      "blocks": [
+        {"type": "image", "src": "images/arches.jpg", "caption": "Level 0 的拱門變體。", "source_url": "https://backrooms-wiki.wikidot.com/local--files/level-0/3", "license": "作者：Alfarex；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-0"},
+        {"type": "text", "content": "層級的走道會隨探索而變動。拱門區域通常出現在死路或過渡房間，地毯特別深，行走較吃力；但這些房間相對穩定，身後格局較少改變，拱門也可能提供短暫休息處。原文引述一名流浪者在拱門休息後進入 Level 1 的經驗；他當時腳部腫脹、脫水，並患上持續數週的鼻竇感染。"},
+        {"type": "text", "content": "巨大的柱廳可延伸數英里，柱子呈格狀排列。地毯較淺，但身後通道常移位，使柱列變得不對稱；原文建議選定方向持續前進。一名曾多次到訪的流浪者描述，自己花了十四天才走出柱廳。"},
+        {"type": "text", "content": "地板上的深坑常密集地呈格狀分布，坑內漆黑，燈光只能照入短距離。大型坑群有嚴重墜落風險；目前沒有掉入後生還的紀錄，也不知坑底通往何處。疲勞或脫水時尤其應避開。關於坑中聲音、牽引感或藍光的說法，在原文中只是流浪者轉述與推測。"},
+        {"type": "image", "src": "images/blackout.jpg", "caption": "Level 0 的停電區走廊。", "source_url": "https://backrooms-wiki.wikidot.com/local--files/level-0/5", "license": "作者：Alfarex；CC BY-SA 4.0（https://creativecommons.org/licenses/by-sa/4.0/）；授權標示見 https://backrooms-wiki.wikidot.com/level-0"},
+        {"type": "text", "content": "「停電區」完全沒有照明，身後格局仍可能改變。倖存者稱牆面粗糙、燈聲消失後寂靜異常，凹陷地板有時積著及踝液體。原文建議進入後朝可見光亮奔去，或嘗試循燈聲尋找出口；引述者也提醒燈聲的位置可能飄移。"},
+        {"type": "text", "content": "「紅色房間」應完全避開。這些區域似乎與整體空間脫離，深入後極難離開；即使靠近也可能引起強烈幽閉感及偏執。紅色色調、厚而黏且粗糙的地毯，以及剝落壁紙下的深紅色，都是警訊。"},
+        {"type": "text", "content": "俗稱「周邊位移」的現象會在無人直接注視時，使格局扭曲、延伸或重新排列，甚至抹去數日走過的路線。現象並非持續發生，部分區域較少出現；因此標記路線與繪製地圖也未必可靠。"}
+      ]
+    },
+    {
+      "title": "異常：聲音",
+      "blocks": [
+        {"type": "text", "content": "日光燈的嗡鳴始終籠罩 Level 0，音量會突然增大；長時間暴露可能損傷聽力，原文建議摀住耳朵並離開。另有模糊耳語、熟人呼喚，以及牆後刮擦聲的報告，但沒有目擊到聲源。這些聲音究竟是幻覺或未知現象，尚無定論。"}
+      ]
+    },
+    {
+      "title": "異常：地毯",
+      "blocks": [
+        {"type": "text", "content": "幾乎所有地面都覆有緊密編織、持續潮濕的柏柏爾式地毯；受燈光影響，照片中偏黃，單獨觀察時則較接近棕米色。纖維材質未知且略顯粗糙。儘管各處顏色與觸感略有差異，地毯似乎是一整片連續鋪設。"},
+        {"type": "text", "content": "浸濕地毯的液體來源不明。樣本包括鹽水、半鹹水、杏仁水、液態痛苦、福馬林，以及含人類或非人類 DNA 的混合物。地毯不可食用，其中的杏仁水也已受污染；原文特別警告不要飲用地毯液體或吞食纖維。"}
+      ]
+    },
+    {
+      "title": "異常：孤立",
+      "blocks": [
+        {"type": "text", "content": "「孤立效應」使即使並肩進入的兩人，也無法在此相遇。呼喊、留字條、做路標或破壞牆面，都無法建立聯繫。原文提及一間能讓人互相看見的小房間作為例外，但變動的格局使其極難尋獲；長期孤身跋涉也會造成沉重心理負擔。"}
+      ]
+    },
+    {
+      "title": "實體",
+      "blocks": [
+        {"type": "text", "content": "目前不確定 Level 0 是否存在實體；若存在，可能也受孤立效應影響。沒有直接目擊的確認紀錄，僅有流浪者聲稱在走廊間看到尾隨的暗影，或感到遭到注視。"}
+      ]
+    },
+    {
+      "title": "入口與出口",
+      "blocks": [
+        {"type": "text", "content": "最常見的入口是從現實中意外穿越；原文亦稱後室其他地方藏有多處入口，但未在此列出具體位置。要離開，須在走廊中找到閃爍的牆面並穿過，即可前往 Level 1。原文最後提醒：Level 0 是門檻，而非後室最危險的地方。"}
+      ]
+    }
+  ],
+  "entrances": [],
+  "exits": [
+    {"target": "1", "description": "找到閃爍的牆面並穿過，可抵達 Level 1。"}
+  ]
+}

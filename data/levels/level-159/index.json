@@ -1,0 +1,104 @@
+{
+  "id": "159",
+  "status": "complete",
+  "name": "Beastland",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-159",
+  "sections": [
+    {
+      "title": "描述",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Wikidot 原頁標示本文內容過時。Level 159 是估計面積約三千平方公里的美式城鎮，建築多似 1980 至 1990 年代美國設施。地勢大致平坦，樹木和灌叢枯死。生存難度為 3：不安全、不穩定，實體數量中等。"
+        },
+        {
+          "type": "text",
+          "content": "暴風雪極常見，幾乎所有表面覆雪；即使降雪不斷，積雪似乎不超過四公分。氣溫在攝氏 0 至零下 19 度之間不規則變化，雲量可在數分鐘內劇變，與是否下雪沒有明顯關聯。某些特殊場所保持零度以上，卻可能有危險物質和實體，不應因較暖和就貿然進入。"
+        }
+      ]
+    },
+    {
+      "title": "實體種類",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "此層有 Hounds、Smilers、雌雄 Deathmoths，以及大量特有實體；部分具智慧、情緒甚至可像人類一樣離開。人形實體在目擊中少於十分之一，通常中立但也有惡意個體。半人形兼具人與動物特徵，部分能說話或寫字。非人形最多，估計可占約 65%，行為與危險程度差異極大，遇見時應退開。"
+        },
+        {
+          "type": "text",
+          "content": "中立實體通常受到威脅才反擊，有智慧者可能與流浪者合作，應尊重其自主性。原文將主動尋找並攻擊流浪者的類別稱為 A.M.E.，血跡、異常暴躁與尖叫可作線索；少數會模仿人聲引人靠近。另有具超自然能力的「強化實體」，能力及弱點因個體而異，其中具攻擊性的個體尤其危險。"
+        }
+      ]
+    },
+    {
+      "title": "特殊環境",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/gas-station.png",
+          "caption": "Level 159 較空曠區域的一座加油站。",
+          "source_url": "https://backrooms-wiki.wikidot.com/local--files/level-159/1",
+          "license": "作者：zebMcCorkle；CC BY-SA 2.0（https://creativecommons.org/licenses/by-sa/2.0/）；圖片與來源標示見 https://backrooms-wiki.wikidot.com/level-159"
+        },
+        {
+          "type": "text",
+          "content": "加油站初發現時常有敵對實體；白旗標示已清理或相對安全的站點。貨架上有類似前廳便利商店的食物與飲料，空貨架會不定期補滿。M.E.G. 管轄的一站是層級行動基地。遊樂場可能出現在屋頂或路口等怪異位置，零食與水出現太慢，不能作可靠補給；場內恆為攝氏 5 度，雪落地即融，但敵對實體仍可進入。"
+        },
+        {
+          "type": "text",
+          "content": "「創造坑」是空曠區的混凝土掩體，內有來源不明的先進設備、保存特有實體的液槽，以及似乎隨機生成其構造與能力的電腦。實體發育完成後，容器被發射並落到層級別處；附近也有靈長類與未知物種骨骸。原文請人將疑似靈長類遺骸位置通報 M.E.G.。"
+        },
+        {
+          "type": "text",
+          "content": "「被遺忘的商場」是一座大型衰敗購物中心，內部恆為攝氏 18 度，無法生火或使用烹調設備。商店有仿前廳品牌和空置店面，也出售各種物品；價籤列出作為交換條件的雜物，若未依條件付款，帶出商場的物品會立即瓦解。"
+        }
+      ]
+    },
+    {
+      "title": "聚落與出口",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Van Dieria 是以圍牆隔開 A.M.E. 的小型聚落，原文記載人口 368 名流浪者與實體，其中逾三分之二為實體；長居者以社群投票決定事務，名稱由來不明。M.E.G. 亦在加油站設基地。"
+        },
+        {
+          "type": "text",
+          "content": "從 Level 1 或 Level 4 的覆冰金屬門可進入；在 Level 36 搭往 C 航廈的電車會到此層廢機場；Level 11 的商場入口有小機率通往被遺忘的商場。離開方法包括進入甜甜圈店到 Level 11、進入招牌寫著「Roller Rockin' Pizza!」的遊樂店到 Level 40、走入人孔到 Level 34。進來後十秒內沿原門折返可回上一層；逾時門會關閉，此路徑目的地取決於進入來源，無法建立單一固定目標。"
+        }
+      ]
+    }
+  ],
+  "entrances": [
+    {
+      "target": "1",
+      "description": "通過覆冰金屬門。"
+    },
+    {
+      "target": "4",
+      "description": "通過覆冰金屬門。"
+    },
+    {
+      "target": "36",
+      "description": "搭乘開往 C 航廈的電車。"
+    },
+    {
+      "target": "11",
+      "description": "嘗試進入商場時，小機率抵達被遺忘的商場。"
+    }
+  ],
+  "exits": [
+    {
+      "target": "11",
+      "description": "進入任何甜甜圈店。"
+    },
+    {
+      "target": "40",
+      "description": "進入招牌寫著「Roller Rockin' Pizza!」的遊樂店。"
+    },
+    {
+      "target": "34",
+      "description": "進入人孔。"
+    }
+  ]
+}

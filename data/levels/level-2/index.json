@@ -1,0 +1,237 @@
+{
+  "id": "2",
+  "status": "complete",
+  "name": "Abandoned Utility Halls",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-2",
+  "sections": [
+    {
+      "title": "描述",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Level 2 是無盡而複雜、但符合歐幾里得幾何的維修隧道群。原頁列為生存難度 3：不安全、不穩定，實體數量中等。走道轉角通常為 45 度，長度約為公制五的倍數；通道常窄到只容一人，老舊混凝土與深色磚牆表面粉化，觸碰會留下粉末。"
+        },
+        {
+          "type": "text",
+          "content": "牆與天花板布滿管線、電纜和彼此不協調的機械。管道可輸送液體、氣體、電力，偶爾還有固體；推車、油桶、箱子、工具、木材與碎玻璃散落各處，部分箱子有可用物資。"
+        },
+        {
+          "type": "image",
+          "src": "images/fluorescent.jpg",
+          "caption": "Level 2 的日光燈。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-2/2fluorescent.jpg",
+          "license": "作者：OiMax；CC BY 2.0（https://creativecommons.org/licenses/by/2.0/）；來源標示見 https://backrooms-wiki.wikidot.com/level-2"
+        },
+        {
+          "type": "text",
+          "content": "日光燈多為工業白或橘色，分布不均，電線經常外露。部分照明以串聯方式接線，一盞燈或電線受損即可令整片區域熄滅。各種門可能通向倉庫、放有電腦的工業房、繞回原門的長走道、空房或其他層級；有些解鎖的門通向無聲、無光、看似無限延展的虛空房，唯一回程門極易失去，原文強烈不建議進入。"
+        }
+      ]
+    },
+    {
+      "title": "基地、前哨站與社群：The Macchina",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Macchina 是 Level 2 早期居民之一。原文稱他們從動物性實體逐步發展出智慧，利用層級的機械材料製造外骨骼、家具與武器，並在門後房間定居。靠近 Level 811 出口的一座廢城可能是其主要城市，但缺乏直接證據。長期耗用資源後人口銳減，約 1850 年後未再有確切目擊。機械後來似乎逐漸再生卻多未正確連接；這是解釋現有雜亂機械的一種理論，尚非定論。"
+        }
+      ]
+    },
+    {
+      "title": "基地、前哨站與社群：人類團體",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "The Aiding Stragglers 約於 1995 至 2013 年運作，為直接來自前廳的新人提供暫住、教育和採集訓練。2013 年遭大群 Hounds 攻擊；M.E.G. 援隊途中又遭 Wrangler 攔截，基地失守。倖存成員與其他人後來以 The Survivors 之名延續理念，也提供永久居住。Followers of Jerry 雖少在此常駐，曾為招徠人員測量隧道，部分數據後來被 M.E.G. 使用。M.E.G. 曾設次級基地，但因狹窄與實體風險遷往 Level 3。",
+          "license": "Wikidot 圖片清單標示名稱 Honza Groh、作者欄 Kolektory Praha, 25；CC BY-SA 3.0（https://creativecommons.org/licenses/by-sa/3.0/）；原始檔與授權標示見 https://backrooms-wiki.wikidot.com/level-2"
+        },
+        {
+          "type": "image",
+          "src": "images/track.jpg",
+          "caption": "B.N.T.G. 在 Level 2 建設的軌道。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-2/2track.jpg",
+          "license": "作者：Honza Groh；CC BY-SA 3.0（https://creativecommons.org/licenses/by-sa/3.0/）；來源標示見 https://backrooms-wiki.wikidot.com/level-2"
+        },
+        {
+          "type": "text",
+          "content": "B.N.T.G. 自 2016 年起以 Office Space EL3A 為主要據點，建造窄軌電車搬運貨品，後來也載客。為鋪軌，他們拆除部分管線、拓寬隧道並以電池儲存本層電力；轉彎撞牆、出軌和電池負荷都是持續問題。一次接上可能故障的第三顆電池後，全層短路停電，機械停擺、管道積聚物質，部分出口失效，原本鎖住的虛空房卻開放。幾天後出現局部紫色光；兩年後主要照明與管道恢復，但多數機械仍只發出微弱聲響，鐵路被棄置。今日除 EL3A 外少有大型團體定居，居民仍依賴外層輸入食物與醫療物資。"
+        }
+      ]
+    },
+    {
+      "title": "實體",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "原文列有多種常見與本地實體：Hounds 會獵捕流浪者及其他實體；Facelings 通常結群遊走，未受擾時少主動襲擊；Death Rats 多以桶內液體及殘食維生；Cannibal Cuisines 曾在停電期間成為少數可見的光源；Wranglers 可穿入地面並在他處出現，過去的失蹤案有些被歸因於牠們。Photoshop 曾在有電腦的房間極少出現；Growlers 可在狹窄處互相融合至堵塞通路。藍色 Swindlebird 的舊目擊缺乏後續證據，不可視為已證實常駐。"
+        }
+      ]
+    },
+    {
+      "title": "入口與出口",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "最常見入口是從 Level 1 的異常長走廊漸入；原文也記載從前廳直接穿越，以及其他層級的門、通風孔、隧道與特定接觸行為進入。已確認出口多為異常門，包括通往 Level 1、3、4 的未鎖門，以及按材質、顏色、標誌與聲音區分的其他門；另有無縫環境轉換、異常高溫區、長時間行走等方式。The Hub 與 Office Space EL3A 不屬普通數字層級；前者位置在團體間多為傳聞，後者是本層內部據點。"
+        }
+      ]
+    }
+  ],
+  "entrances": [
+    {
+      "target": "1",
+      "description": "沿異常延長的走廊進入。"
+    },
+    {
+      "target": "52",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "287",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "8",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "11",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "43",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "84",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "127",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "141",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "158",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "173",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "309",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "480",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "522",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "916",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    },
+    {
+      "target": "997",
+      "description": "原文記載可經特定門、通道或穿越條件進入 Level 2；詳見來源。"
+    }
+  ],
+  "exits": [
+    {
+      "target": "1",
+      "description": "通過有標記的未鎖門。"
+    },
+    {
+      "target": "3",
+      "description": "通過有標記的未鎖門。"
+    },
+    {
+      "target": "4",
+      "description": "通過有標記的未鎖門。"
+    },
+    {
+      "target": "31",
+      "description": "通過膠合板門。"
+    },
+    {
+      "target": "127",
+      "description": "通過膠合板門，或在異常高溫區穿越。"
+    },
+    {
+      "target": "137",
+      "description": "通過顯得老舊的木門。"
+    },
+    {
+      "target": "70",
+      "description": "通過刻有「70」的大門。"
+    },
+    {
+      "target": "283",
+      "description": "通過彩虹色的大門。"
+    },
+    {
+      "target": "101",
+      "description": "通過某些未鎖門。"
+    },
+    {
+      "target": "126",
+      "description": "通過門後傳出回音鋼琴聲的未鎖門。"
+    },
+    {
+      "target": "141",
+      "description": "通過金屬門。"
+    },
+    {
+      "target": "175",
+      "description": "通過藍色門。"
+    },
+    {
+      "target": "997",
+      "description": "通過粉紅色門。"
+    },
+    {
+      "target": "811",
+      "description": "沿管道脈動藍光找到嵌有 Macchina 刀刃的門，拔刀穿越。"
+    },
+    {
+      "target": "916",
+      "description": "長時間探索後找到門把損壞的木門。"
+    },
+    {
+      "target": "998",
+      "description": "通過形似電梯的門。"
+    },
+    {
+      "target": "606",
+      "description": "探索時可能無縫過渡；原文稱此路徑較少見。"
+    },
+    {
+      "target": "38",
+      "description": "探索時可能無縫過渡。"
+    },
+    {
+      "target": "64",
+      "description": "從未鎖門後進入裝飾完整、像住宅的房間。"
+    },
+    {
+      "target": "158",
+      "description": "沿走道行走足夠長時間。"
+    },
+    {
+      "target": "902",
+      "description": "進入與通道成直角的小型挖掘通路。"
+    },
+    {
+      "target": "189",
+      "description": "萌生如廁念頭後與門互動，可能突然抵達。"
+    }
+  ]
+}

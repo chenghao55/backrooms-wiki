@@ -1,0 +1,100 @@
+{
+  "id": "22",
+  "status": "complete",
+  "name": "Ruins Left Behind",
+  "language": "zh-TW",
+  "source_url": "https://backrooms-wiki.wikidot.com/level-22",
+  "sections": [
+    {
+      "title": "描述與 Emstable 的興衰",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "images/original.jpg",
+          "caption": "Level 22 初被發現時的停車場景象。",
+          "source_url": "https://backrooms-wiki.wdfiles.com/local--files/level-22/original22.jpg",
+          "license": "作者：Clemens v. Vogelsang；CC BY 2.0（https://creativecommons.org/licenses/by/2.0/）；來源標示見 https://backrooms-wiki.wikidot.com/level-22"
+        },
+        {
+          "type": "text",
+          "content": "Level 22 最早於 1925 年被發現，原是一座看似無限延伸的二十世紀多層停車場，停有汽車與裝著建材、食物的購物車。敵對實體較少，使它一度成為各團體的集散地。1987 年，居民宣布成立獨立微型國家；到 1990 年大多入口被封閉，團體自稱 Emstable，外人很少獲准進入。2012 與 2016 年雖分別與 M.E.G.、B.N.T.G. 商談貿易，內部生活仍所知有限。原頁的生存難度標示為「5e」，相關指標未在可讀文字中展開。"
+        },
+        {
+          "type": "text",
+          "content": "少數研究顯示，Emstable 有嚴格的「家族」與樓層分工制度，各層須把生產資源的一部分上繳。最上層的三名重要人物享有 Wi-Fi、娛樂設施及電爐；中層住戶有帳篷、木材或混凝土棚屋，從事耕種與其他工作；第十六層以下則極度貧困，常缺食物和住所。作物最初如何取得不明；曾有通往可耕種層級的出口只是普遍推測。"
+        },
+        {
+          "type": "text",
+          "content": "上層索取愈多、下層所得愈少，外部交易也未能挽救局勢。滅亡的真正原因不明，一般認為不平等制度與大量採礦、拆取混凝土造成的結構劣化共同促成崩潰。居民大多遷走；今日是遍布瓦礫、鋼筋、破車及廢帳篷的危險遺址，部分帳篷留有未及逃生者的遺體。地面深坑、鬆動結構與碎物可能造成跌落或割傷，原文不建議自由攀爬坑洞。"
+        }
+      ]
+    },
+    {
+      "title": "尋獲文件：〈Hilda〉日記",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Kalag Institute、M.E.G. 與 B.N.T.G. 等團體找回少量個人紀錄。推定由 Jacobs Opal 撰寫的〈Hilda〉日記保留了三個日期。2014 年 8 月 2 日，他記下與 Janus、Heljan 辛苦挖掘混凝土，希望交足材料使家人升往第二十層；Grey 也為女兒 Tia 努力。8 月 6 日，一家為保留 Tia 的食物而少交換口糧，仍期待晉升，儘管 Aiden、Kellaby、Raven 等人有所勸阻。"
+        },
+        {
+          "type": "text",
+          "content": "到 2015 年 10 月 30 日，Jacobs 仍在運送混凝土，日記語氣已顯疏離：Grey、Heljan、Tia 與一名新生兒似乎住進高層，而他不確定自己是否仍能見到 Tia，卻仍表達重逢希望。原文沒有交代其後結局，完整日記由 Kalag Institute 持有。"
+        }
+      ]
+    },
+    {
+      "title": "尋獲文件：人口紀錄",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "最高居住樓層發現一份標為 2010 年 7 月 1 日的普查表，記載各層人口、變動、資源職責與就業比例。表中列出第一至第二十九層，第一層 18 人、第二十八層 0 人、第二十九層資料不明，總人口記為 26,158；分工涵蓋食物種植、採礦、伐木、機械、衣物、醫療及廢品收集。另有一份不同年份的普查，無法據此確定定期頻率。原文的詳表可由來源頁查閱。"
+        }
+      ]
+    },
+    {
+      "title": "基地、社群與出口",
+      "blocks": [
+        {
+          "type": "text",
+          "content": "Emstable 曾是此層唯一活躍社群，崩潰後沒有新聚落形成。當年封堵的多數出入口已消失或停用；如今可從 Level 21 地板與 Level 23 天花板因崩塌形成的孔洞出入。少見的舊入口另包括 Level 1 的玻璃門、Level 69 的出口匝道及 Level 172 中央區域的出口。穿越車輛或瓦礫可抵達 Level 817。"
+        }
+      ]
+    }
+  ],
+  "entrances": [
+    {
+      "target": "21",
+      "description": "經地板塌洞進入。"
+    },
+    {
+      "target": "23",
+      "description": "經天花板塌洞進入。"
+    },
+    {
+      "target": "1",
+      "description": "通過玻璃門進入，較少見。"
+    },
+    {
+      "target": "69",
+      "description": "由出口匝道進入。"
+    },
+    {
+      "target": "172",
+      "description": "由中央區域的出口進入。"
+    }
+  ],
+  "exits": [
+    {
+      "target": "21",
+      "description": "經崩塌孔洞返回。"
+    },
+    {
+      "target": "23",
+      "description": "經崩塌孔洞返回。"
+    },
+    {
+      "target": "817",
+      "description": "穿越車輛或瓦礫。"
+    }
+  ]
+}
